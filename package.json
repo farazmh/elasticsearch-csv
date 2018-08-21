@@ -4,7 +4,7 @@
   "description": "A simple Elasticsearch CSV importer",
   "dependencies": {
     "bluebird": "3.4.1",
-    "elasticsearch": "11.0.1",
+    "elasticsearch": "14.0.0",
     "fast-csv": "2.0.0",
     "lodash": "4.13.1",
     "uuid": "2.0.2"
